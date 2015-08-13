@@ -1,0 +1,9 @@
+Package: com.yourcompany.easymamafacetime
+Name: EasyMaMaFaceTime
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: wangyang
+Author: wangyang
+Section: Tweaks
