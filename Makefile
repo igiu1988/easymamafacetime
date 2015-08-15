@@ -10,3 +10,6 @@ TARGET = iPhone:8.4:7.0
 
 after-install::
 	install.exec "killall -9 FaceTime"
+
+EasyMaMaFaceTime_FRAMEWORKS = UIKit
+THEOS_DEVICE_IP = localhost
